@@ -1,0 +1,19 @@
+div {
+    background-color: gray;
+    color: White;
+    text-align: center;
+}
+p{
+    text-align: center;
+    text-indent: 40px;
+}
+h2{
+    text-align: center;
+}
+#img{
+    text-align: center;
+    background-color: white;
+}
+#tools{
+    text-align: right;
+}
